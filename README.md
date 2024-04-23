@@ -1,1 +1,1 @@
-# shopping_cart
+# shopping_cart_react_application
